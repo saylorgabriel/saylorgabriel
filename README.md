@@ -27,7 +27,7 @@
 ```typescript
 const saylor = {
   location: "Campinas, SP, Brazil",
-  currentRole: "Tech Lead @ Consolide",
+  currentRole: "Tech Lead",
   experience: "15+ years",
   focus: ["Back-end Development", "AI & LLMs", "Cloud Architecture"],
   status: "Open to Projects ●"
