@@ -62,22 +62,13 @@ const saylor = {
 
 <br>
 
-### `> STATS`
+### `> GITHUB`
 
 <div align="center">
 
-<img height="160" src="https://github-readme-stats.vercel.app/api?username=saylorgabriel&show_icons=true&theme=dark&hide_border=true&bg_color=0a0a0a&title_color=10b981&icon_color=10b981&text_color=6ee7b7&ring_color=10b981" />
-<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=saylorgabriel&layout=compact&theme=dark&hide_border=true&bg_color=0a0a0a&title_color=10b981&text_color=6ee7b7" />
+![Saylor's GitHub stats](https://github-readme-stats.vercel.app/api?username=saylorgabriel&show_icons=true&theme=dark&hide_border=true&bg_color=0a0a0a&title_color=10b981&icon_color=10b981&text_color=6ee7b7)
 
-</div>
-
-<br>
-
-### `> STREAK`
-
-<div align="center">
-
-[![GitHub Streak](https://streak-stats.demolab.com?user=saylorgabriel&theme=dark&hide_border=true&background=0A0A0A&stroke=10b981&ring=10b981&fire=10b981&currStreakNum=6ee7b7&sideNums=6ee7b7&currStreakLabel=10b981&sideLabels=10b981&dates=4a4a4a)](https://git.io/streak-stats)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=saylorgabriel&layout=compact&theme=dark&hide_border=true&bg_color=0a0a0a&title_color=10b981&text_color=6ee7b7)
 
 </div>
 
