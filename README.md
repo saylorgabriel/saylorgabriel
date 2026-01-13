@@ -62,18 +62,6 @@ const saylor = {
 
 <br>
 
-### `> GITHUB`
-
-<div align="center">
-
-![Saylor's GitHub stats](https://github-readme-stats.vercel.app/api?username=saylorgabriel&show_icons=true&theme=dark&hide_border=true&bg_color=0a0a0a&title_color=10b981&icon_color=10b981&text_color=6ee7b7)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=saylorgabriel&layout=compact&theme=dark&hide_border=true&bg_color=0a0a0a&title_color=10b981&text_color=6ee7b7)
-
-</div>
-
-<br>
-
 ---
 
 <div align="center">
