@@ -14,7 +14,7 @@
 <br>
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-saylor.tech-10b981?style=for-the-badge&logo=googlechrome&logoColor=white)](https://saylorgabriel.github.io/saylordamasceno/)
-[![OtrixLabs](https://img.shields.io/badge/Portfolio-saylor.tech-10b981?style=for-the-badge&logo=googlechrome&logoColor=white)]([https://otrixlabs.com.br/])
+[![OtrixLabs](https://img.shields.io/badge/Portfolio-otrix.labs-10b981?style=for-the-badge&logo=googlechrome&logoColor=white)]([https://otrixlabs.com.br/])
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-saylordamasceno-10b981?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/saylordamasceno)
 
 </div>
